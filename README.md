@@ -4,4 +4,8 @@
 
 使用图片时在README.md中填入：
 
-`![Image text](https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg)`
+`![Image text](https://raw.githubusercontent.com/dolphin9/image/master/2017CSharp_ContourAnalysis/1.png)
+`
+
+得到
+![Image text](https://raw.githubusercontent.com/dolphin9/image/master/2017CSharp_ContourAnalysis/1.png)
